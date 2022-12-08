@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=#FFCB05&style=plastic&logo=GHOST"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=#FFFFFF&style=plastic&logo=GHOST"/>
     
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>

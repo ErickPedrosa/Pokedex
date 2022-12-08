@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=FFCB05&style=social&logo=POKEMON"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=FFCB05&style=lat-square&logo=POKEMON"/>
 <img src="https://img.shields.io/static/v1?label=Version&message=v1.2&color=FF3333&style=plastic&logo=POKEMON"/>
 <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=#&style=plastic&logo=POKEMON"/>
     

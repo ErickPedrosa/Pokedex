@@ -1,3 +1,9 @@
+https://img.shields.io/static/v1?label=<Status>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<Pokémon>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+
+
 <h1 align="center">
     <a href="https://erickpedrosa.github.io/Pokedex/">🔗 Pokédex</a>
 </h1>

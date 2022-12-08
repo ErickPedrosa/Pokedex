@@ -1,12 +1,5 @@
-<head>
-    <style>
-        div{
-            text-align: center;
-        }
-    </style>
-</head>
 <body>
-<div>
+<div style="text-align:center;">
     <img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=FFCB05&style=lat-square&logo=POKEMON"/> <img src="https://img.shields.io/static/v1?label=Version&message=v1.2&color=FF3333&style=lat-square&logo=POKEMON"/> <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=33DD33&style=lat-square&logo=POKEMON"/>
     </div>
 

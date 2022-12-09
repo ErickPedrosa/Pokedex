@@ -17,7 +17,7 @@
  <a href="#status">Status do Projeto</a> •
  <a href="#funcionamento">Funcionamento</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#licenca">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
@@ -25,4 +25,11 @@
 <br>
 
 <h2 id="objetivo">Objetivos</h2>
+<h2 id="status">Status do Projeto</h2>
+<p>O projeto atualmente se encontra concluído e está atualmente na sua versão 1.2, embora pretenda daqui a algum tempo retomá-lo para adicionar novas features.</p>
+<h2 id="funcionamento">Funcionamento</h2>
+
+<h2 id="tecnologias">Tecnologias</h2>
+<h2 id="licenca">Licença</h2>
+<h2 id="autor">Autor</h2>
 

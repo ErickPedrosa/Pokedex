@@ -1,6 +1,8 @@
 
 <img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=FFCB05&style=lat-square&logo=POKEMON"/> <img src="https://img.shields.io/static/v1?label=Version&message=v1.2&color=FF3333&style=lat-square&logo=POKEMON"/> <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=33DD33&style=lat-square&logo=POKEMON"/>    
 
+<br>
+
 <h1 align="center">
     <a href="https://erickpedrosa.github.io/Pokedex/">🔗 Pokédex</a>
 </h1>
@@ -9,10 +11,18 @@
 
 <br>
 <br>
+
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
+ <a href="#status">Status do Projeto</a> •
  <a href="#funcionamento">Funcionamento</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
+
+<br>
+<br>
+
+<h2 id="objetivo">Objetivos</h2>
+

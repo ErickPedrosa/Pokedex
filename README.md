@@ -18,8 +18,7 @@
  <a href="#status">Status do Projeto</a> •
  <a href="#funcionamento">Features</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenca">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#autor">Autor</a> 
 </p>
 
 <br>
@@ -69,20 +68,73 @@
 <br>
 
 <h2 id="status">Status do Projeto</h2>
-<p>O projeto atualmente se encontra concluído e está atualmente na sua versão 1.2, embora pretenda daqui a algum tempo retomá-lo para adicionar novas features.</p>
+<p>O projeto se encontra concluído e está atualmente na sua versão 1.2, embora pretenda daqui a algum tempo retomá-lo para adicionar novas features.</p>
 
 <br>
 <br>
 
 <h2 id="funcionamento">Funcionamento</h2>
+<p>O projeto é bem simples e de fácil utilização, as principais funcionalidades implementadas são:</p>
+<ul>
+    <li>Renderizar o pokémon</li>
+    <li>Navegar para o anterior e o próximo pokémon</li>
+    <li>Buscar um pokémon</li>
+</ul>
+<br>
+
+<h3>Renderizar o pokémon</h3>
+<p>A principal função da pokédex é mostrar o pokémon e suas características na tela, as características renderizadas pelo projeto são:</p>
+<h4>* Nome do pokémon *</h4>
+<h4>* Núm. do pokémon ou ID do pokémon *</h4>
+<h4>* Tipo do pokémon *</h4>
+<h4>* Altura (Height) *</h4>
+<h4>* Peso (Weight) *</h4>
+<h4>* Abilidades do pokémon *</h4>
+<h4>* Tipos que o pokémon é fraco contra *</h4>
+<h4>* Tipos que o pokémon tem vantagem contra *</h4>
+<br>
+
+<h3>Navegar para o anterior e o próximo pokémon</h3>
+<p>Utilizando das setas no canto superior da tela é possível navegar para o próximo/anterior pokémon. A seta superior direita leva ao próximo pokémon, enquanto a seta superior esquerda leva ao pokemon anterior.</p>
+<br>
+
+<h3>Buscar um pokémon</h3>
+<p>Ao clicar no ícone de busca uma caixa de pesquisa surge permitindo que você procure por um pokémon específico. A busca pode ocorrer por meio do nome do pokémon ou então pelo id.</p>
 
 <br>
 <br>
 
 <h2 id="tecnologias">Tecnologias</h2>
+<h3>As seguintes ferramentas foram usadas na construção do projeto:</h3>
 
+
+<h4>Linguagens</h4>
+<p><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a></p>
+<p><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a></p>
+<p><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a></p>
+<br>
+
+<h4>API's</h4>
+<a href="https://pokeapi.co/">PokeAPI</a>
+<br>
+
+<h4>Referências</h4>
+<a href="https://www.youtube.com/watch?v=SjtdH3dWLa8">Vídeo do Manual do Dev</a>
+
+<br>
 <br>
 <br>
 
 <h2 id="autor">Autor</h2>
 
+<a href="https://github.com/ErickPedrosa/">
+    <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+    <br />
+    <sub><strong>Erick Pedrosa</strong></sub>
+</a> 
+<a href="https://github.com/ErickPedrosa/" title="Rocketseat">🚀</a>
+
+<!--[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Erick-Pedrosa?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickpedrosabarreto/)](https://www.linkedin.com/in/erickpedrosabarreto/) 
+[![Gmail Badge](https://img.shields.io/badge/-erick.pedrosa.b@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick.pedrosa.b@gmail.com)](mailto:erick.pedrosa.b@gmail.com)

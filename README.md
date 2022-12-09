@@ -128,10 +128,11 @@
 <h2 id="autor">Autor</h2>
 
 <a href="https://github.com/ErickPedrosa/">
-    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84411590?v=4" width="100px;" alt=""/>
+    <img style="border-radius: 100%; " src="https://avatars.githubusercontent.com/u/84411590?v=4" width="100px;" alt=""/>
     <br>
     <sub><strong>Erick Pedrosa</strong></sub>
 </a> 
+<br>
 <a href="https://github.com/ErickPedrosa/" title="Rocketseat">🚀</a>
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) -->

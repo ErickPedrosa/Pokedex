@@ -132,8 +132,11 @@
     <br>
     <sub><strong>Erick Pedrosa</strong></sub>
 </a> 
-<br>
+
 <a href="https://github.com/ErickPedrosa/" title="Rocketseat">🚀</a>
+
+<br>
+<br>
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) -->
 

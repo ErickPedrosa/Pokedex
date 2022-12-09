@@ -14,7 +14,7 @@
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="desenvolvimento">Desenvolvimento</a> •
+ <a href="#desenvolvimento">Desenvolvimento</a> •
  <a href="#status">Status do Projeto</a> •
  <a href="#funcionamento">Features</a> • 
  <a href="#tecnologias">Tecnologias</a> • 

@@ -128,8 +128,8 @@
 <h2 id="autor">Autor</h2>
 
 <a href="https://github.com/ErickPedrosa/">
-    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84411590?s=400&u=aa1f13e172d77549e31783c692c955ed8fa93626&v=4" width="100px;" alt=""/>
-    <br />
+    <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+    <br>
     <sub><strong>Erick Pedrosa</strong></sub>
 </a> 
 <a href="https://github.com/ErickPedrosa/" title="Rocketseat">🚀</a>

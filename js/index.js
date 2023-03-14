@@ -114,6 +114,7 @@ const renderWeakAndAdv = async (pokemon) => {
 
     const typ = await getType(pokemon);
     setTimeout( () => { 
+        
         getDamage(typ) 
         
         danoRecebido.forEach( (tipo, i) => {
